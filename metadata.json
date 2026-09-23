@@ -1,12 +1,12 @@
 {
-  "name": "Lucas Currency",
+  "name": "Lucas Coin",
   "symbol": "LSC",
-  "description": "Lucas Currency",
-  "image": "https://raw.githubusercontent.com/96Lucas96/Lucas-Currency/refs/heads/main/Lucas_Currency.png",
+  "description": "Lucas Coin",
+  "image": "https://raw.githubusercontent.com/96Lucas96/Lucas-Coin/refs/heads/main/Lucas_Coin.png",
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/96Lucas96/Lucas-Currency/refs/heads/main/Lucas_Currency.png",
+        "uri": "https://raw.githubusercontent.com/96Lucas96/Lucas-Coin/refs/heads/main/Lucas_Coin.png",
         "type": "image/png"
       }
     ],
